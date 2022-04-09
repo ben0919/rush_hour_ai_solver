@@ -1,5 +1,3 @@
-# <center>AI Capstone Homework 1 Report </center>
-##### <center>0716040 江睿哲 </center>
 ## Abstract
 This is a report of my rush hour puzzle AI solver, where I implement five searching algorithms: BFS, DFS, IDS, A*, IDA* to solve the game.
 
